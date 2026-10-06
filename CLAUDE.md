@@ -64,3 +64,17 @@ Three issues in `docs/ISSUES.md` are marked **Verified** — `#7`, `#19`, `#13`.
 - Missing files, absent hardware, malformed config — degrade quietly and carry on. A night light that panics is worse than no night light.
 - Commit messages: imperative mood, prefixed by area. `core: add temperature interpolation table`.
 - Reference the issue number in the commit body when there is one.
+
+## Agent skills
+
+### Issue tracker
+
+Issues are tracked on GitHub. See `docs/agents/issue-tracker.md`.
+
+### Triage labels
+
+Default vocabulary. See `docs/agents/triage-labels.md`.
+
+### Domain docs
+
+Single-context layout. See `docs/agents/domain.md`.
